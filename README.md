@@ -12,4 +12,4 @@ To open the website with our browser, we need to download a clone of the reposit
 
 and opening (usually with Ctrl + O) our index.html in our preferred browser.
 
-URL: [GitHub Pages (https://lightbusterx.github.io/Exercise_Unit5_website/)]
+URL: GitHub Pages [(https://lightbusterx.github.io/Exercise_Unit5_website/)]
